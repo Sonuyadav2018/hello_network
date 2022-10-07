@@ -1,0 +1,4 @@
+Verfiy the Network connectivity
+show ip route
+show ip arp 
+sh ip bgp summ
